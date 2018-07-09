@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/shubhamzanwar/code/true/iservice-app_boom/node_modules/react-native-webview-file-upload-android/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/shubhamzanwar/.android/build-cache/d81a21be0ffc2be4ed8101fb0bbcba7559bb94e5/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]
